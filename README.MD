@@ -1,5 +1,4 @@
 ## Node and Express Tutorial
-
 #### Contents
 
 1. Node Tutorial
@@ -10,7 +9,6 @@
 6. Jobs API
 
 #### Course Exclusive
-
 [Node Tutorial and Projects Course](https://www.udemy.com/course/nodejs-tutorial-and-projects-course/?referralCode=E94792BEAE9ADD204BC7)
 
 7. File Upload (local and cloudinary)
